@@ -2,8 +2,13 @@
 
 A sax-style non-validating parser for XML.
 
-Saxes is a fork of [sax](https://github.com/isaacs/sax-js) 1.2.4. All mentions
-of sax in this project's documentation are references to sax 1.2.4.
+This is a fork of [Saxes](https://github.com/lddubeau/saxes),
+which was on its turned forked from [sax](https://github.com/isaacs/sax-js).
+
+This fork was created as the Saxes project appeared to be unmaintained,
+so I have created this project to resolve major blockers in my own projects.
+I do not aim to add features to this project.
+This fork will be closed as soon as Saxes maintenance picks up again.
 
 Designed with [node](http://nodejs.org/) in mind, but should work fine in the
 browser or other CommonJS implementations.

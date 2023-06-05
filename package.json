@@ -1,5 +1,5 @@
 {
-  "name": "saxes",
+  "name": "@rubensworks/saxes",
   "private": true,
   "description": "An evented streaming XML parser in JavaScript",
   "author": "Louis-Dominique Dubeau <ldd@lddubeau.com>",
@@ -26,7 +26,7 @@
     "postversion": "npm run test && npm run self:publish",
     "postpublish": "git push origin --follow-tags"
   },
-  "repository": "https://github.com/lddubeau/saxes.git",
+  "repository": "https://github.com/rubensworks/saxes.git",
   "devDependencies": {
     "@commitlint/cli": "^16.3.0",
     "@commitlint/config-angular": "^16.3.0",
